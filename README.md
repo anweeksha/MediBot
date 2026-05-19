@@ -1,2 +1,0 @@
-# CODSOFT_task1
-MEDBOT
