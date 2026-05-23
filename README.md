@@ -1,5 +1,4 @@
 # MediBot - Rule-Based Medical Assistant Chatbot
-### CodSoft AI Internship | Task 1
 
 ## 📌 About
 MediBot is a rule-based chatbot built with Python (Flask) that provides first-aid guidance for:
